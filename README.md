@@ -1,7 +1,7 @@
 # Social-Conversational-Robot-SERIUS-2015-
 
 
-This is my summer project portfolio for the Robotics Research Lab (Prof. Shuzhi Sam Ge)  at the National University of Singapore.  Work built on the previous hardware and software design of NUS ECE graduate student Chang Poo Hee.  I designed and implemented the conversational engine on the Android OS using CMU’s open source package PocketSphinx for Android.  
+This is my summer project portfolio for the Robotics Lab at the National University of Singapore.  Work built on the previous hardware and software design of NUS ECE graduate student Chang Poo Hee.  I designed and implemented the conversational engine on the Android OS using CMU’s open source package PocketSphinx for Android.  
 
 For Android source code, see "IntelligentRobotSourceCode."
 For language model source code, see "Langauge model."
