@@ -1,0 +1,6 @@
+forward 
+back 
+left 
+right 
+stop 
+picture

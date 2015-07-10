@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IntelligentRobot</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_speech_recognition">SpeechRecognition</string>
+
+    <!-- Speech recognition activity -->
+    <string name="voiceButton">Record</string>
+    <string name="defaultTextView">Default</string>
+
+    <!-- Drive Service Provider -->
+    <string name="title_activity_drive_service">Drive Service</string>
+    <string name="title_drive_service_provider">Wireless Control Service Provider</string>
+    <string name="drive_service_provider_Refresh">Refresh</string>
+
+</resources>
+

@@ -1,0 +1,94 @@
+hi my name is mark
+hi my name is zach
+hi my name is kevin
+hi my name is george
+hi my name is molly
+hi my name is brian
+i am mark
+i am zach
+i am kevin
+i am george
+i am molly
+i am brian
+i'm mark
+i'm zach
+i'm kevin
+i'm george
+i'm molly
+i'm brian
+my favorite color is red
+my favorite color is orange
+my favorite color is yellow
+my favorite color is green
+my favorite color is blue
+my favorite color is violet
+my favorite color is grey
+my favorite color is black
+my favorite color is white
+my favorite color is purple
+i like the color red
+i like the color orange
+i like the color yellow
+i like the color green
+i like the color blue
+i like the color violet
+i like the color grey
+i like the color black
+i like the color white
+i like the color purple
+i really like red
+i really like orange
+i really like yellow
+i really like green
+i really like blue
+i really like violet
+i really like grey
+i really like black
+i really like white
+i really like purple
+i like red
+i like orange
+i like yellow
+i like green
+i like blue
+i like violet
+i like grey
+i like black
+i like white
+i like purple
+i want to play with a puppy
+i could use a puppy
+i want a puppy
+i feel sad
+i’m sad
+i am sad
+i am kind of sad
+i am feeling sad
+i'm feeling sad
+i'm really sad
+i am really sad
+i need a wing man
+i could use a wing man
+i’m lonely
+i’m alone
+i am alone
+i am feeling alone
+i'm feeling alone
+i am feeling lonely
+i'm feeling lonely
+i am lost
+actually, i’m lost
+navigation mode
+i want to navigate
+could you help me find my way?
+bye
+good bye
+i have to go now, bye bye
+goodbye
+forward 
+back
+left
+right
+stop
+picture
+restart
